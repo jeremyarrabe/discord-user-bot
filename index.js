@@ -3,7 +3,7 @@ const Discord = require('discord.js');
 
 const client = new Discord.Client();
 
-const myToken = 'NzE0NjYxMTA4Nzk1MDQ3OTk3.XtU0Wg.sDhkhtf7EFqnpwnvTkAD-kys-jE';
+const myToken = 'PASTE YOUR TOKEN HERE';
 
 client.login(myToken);
 
