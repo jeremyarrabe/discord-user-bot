@@ -1,4 +1,4 @@
-# Discord User as Bot
+# Discord User as Bot WORKS 2020!
 
 If your looking to make you account a discord bot without the bot tag this repo will help you!
 
